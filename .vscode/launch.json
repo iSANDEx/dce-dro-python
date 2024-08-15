@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/utils/dicom_explorer.py",
+            "console": "integratedTerminal",
+            "args": ["-p", "/Users/joseulloa/Data/DCEMRI_FTV_Test/EilB-Pre-Treatment/800"]
+        }
+    ]
+}
